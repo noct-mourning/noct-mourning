@@ -1,6 +1,6 @@
 # noct-mourning
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBjMHRrOWJsejg3NWJkMTBoOTd4OHh0cTFydnZtZ2gwaXBid2MwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" align="right" alt="pacman gif" width="400" height="200">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDhrZDYzMmo0ejN5azZ4aWcwZGM5YmV6cnZ0Zmt3aHlicGlzdDNweCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZuiUoC3Dlbkk/giphy.gif" align="right" alt="pacman gif" width="500" height="200">
 
 trying to build cool stuff one project at a time.
 
@@ -9,6 +9,4 @@ react • ui design • animation • creative coding
 currently learning and experimenting.
 
 > motivation pending... 2%
-
-
 
